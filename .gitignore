@@ -1,10 +1,12 @@
 # Python
-venv/
 __pycache__/
 *.pyc
 
-# Data files (generated)
-data_*.json
+# Virtual environment
+venv/
 
 # OS files
 .DS_Store
+
+# Generated data
+data_*.json

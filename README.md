@@ -12,8 +12,8 @@ This repository contains Python scripts used to benchmark write performance betw
 - `generate_data.py` – Generates synthetic datasets
 - `mongo_load.py` – Bulk insert benchmarking for MongoDB
 - `crdb_load.py` – Insert benchmarking for CockroachDB
-- `read_test.py` – Read performance test (optional)
-- `concurrency_test.py` – Concurrent workload test (optional)
+- `read_test.py` – Read performance test
+- `concurrency_test.py` – Concurrent workload test
 
 ## How to Run
 ```bash
